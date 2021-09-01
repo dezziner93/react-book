@@ -4,8 +4,8 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-header {
-  height: 100px;
+header p, header h1 {
+  text-align: left;
 }
 
 .content {
